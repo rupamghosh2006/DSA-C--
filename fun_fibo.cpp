@@ -5,7 +5,7 @@ int Fibonacci_element(int n){
     int t1=0,t2=1,sum=0;
 
     if(n==1){
-    return 0;
+        return 0;
     }
     if(n==2){
         return 1;

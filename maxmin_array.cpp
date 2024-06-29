@@ -14,8 +14,8 @@ int Max_element(int arr[],int n){
 int Min_element(int arr[],int n){
     int mini = arr[0];
     for (int i =1; i<n;i++){
-        /*if (min>arr[i])
-           min = arr[i];*/
+        /*if (mini>arr[i])
+           mini = arr[i];*/
         mini = min(mini,arr[i]);
     }
     return mini; 
