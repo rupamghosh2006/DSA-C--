@@ -3,7 +3,8 @@
     "iostream": "cpp",
     "ostream": "cpp",
     "array": "cpp",
-    "initializer_list": "cpp"
+    "initializer_list": "cpp",
+    "vector": "cpp"
   },
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",
