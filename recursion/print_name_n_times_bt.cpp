@@ -3,8 +3,8 @@ using namespace std;
 
 void PrintName(int n){
     if(n==0) return;
-    cout<<"Rupam\n";
     PrintName(n-1);
+    cout<<"Rupam\n";
 }
 int main(){
     int n;
